@@ -1,2 +1,0 @@
-# text
-this is homework
